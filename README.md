@@ -1,12 +1,12 @@
-####FizzBuzz
+##FizzBuzz
 This programme triggers use of "FizzBuzz" code . So from numbers 1 to 100 , All numbers divisible by 3
 are acronymed "Fizz" and all those divisible by 5 "Buzz" .For those numbers divisible by both "FizzBUzz"
 Lastly for all Prime numbers they are acronymed "Prime".
 
-###Setup Instructions
+##Setup Instructions
 Clone this repository wit a compatible java programme.
 
-###Pre-requisites
+##Pre-requisites
 Intelli J idea
 
 ### Technologies Used
